@@ -1,5 +1,5 @@
-FROM jmenga/todobackend-base:latest
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+FROM ctdao/todobackend-base:latest
+MAINTAINER Truc C. Dao <truc.c.dao@gmail.com>
 
 # Copy application artifacts
 COPY target /wheelhouse
